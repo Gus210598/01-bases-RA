@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 
 const MAXIMUN_COUNT = 10;
+// Ver
 
 export const CounterEffect = () => {
 
